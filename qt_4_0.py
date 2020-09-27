@@ -1,10 +1,11 @@
-"""
- * @Author: kcyln
- * @Date: 2020-09-27 15:58:14
- * @LastEditTime: 2020-09-27 16:19:08
- * @LastEditors: kcyln
- * @Description: pyqt5事件和信号
-"""
+# -*- coding: utf-8 -*-
+# @Author: kcyln
+# @Date: 2020-09-27 15:58:14
+# @LastEditTime: 2020-09-27 21:19:17
+# @LastEditors: kcyln
+# @Description: pyqt5事件和信号
+
+
 import sys
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QWidget, QApplication, QLCDNumber, QSlider, QVBoxLayout

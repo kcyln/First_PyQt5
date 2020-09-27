@@ -1,10 +1,10 @@
-"""
- * @Author: kcyln
- * @Date: 2020-09-27 11:50:37
- * @LastEditTime: 2020-09-27 14:51:02
- * @LastEditors: kcyln
- * @Description: pyqt5布局管理
-"""
+# -*- coding: utf-8 -*-
+# @Author: kcyln
+# @Date: 2020-09-27 11:50:37
+# @LastEditTime: 2020-09-27 21:17:55
+# @LastEditors: kcyln
+# @Description: pyqt5布局管理
+
 
 import sys
 

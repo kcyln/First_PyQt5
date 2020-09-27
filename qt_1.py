@@ -1,10 +1,10 @@
-"""
- * @Author: kcyln
- * @Date: 2020-09-25 17:18:30
- * @LastEditTime: 2020-09-27 14:51:57
- * @LastEditors: kcyln
- * @Description: pyqt5第一次使用，基本功能介绍
-"""
+# -*- coding: utf-8 -*-
+# @Author: kcyln
+# @Date: 2020-09-25 17:18:30
+# @LastEditTime: 2020-09-27 21:16:23
+# @LastEditors: kcyln
+# @Description: pyqt5第一次使用，基本功能介绍
+
 import sys
 
 from PyQt5.QtWidgets import QApplication, QWidget, QToolTip, QPushButton, QMessageBox, QDesktopWidget

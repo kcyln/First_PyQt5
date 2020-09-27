@@ -1,10 +1,11 @@
-"""
- * @Author: kcyln
- * @Date: 2020-09-27 17:37:18
- * @LastEditTime: 2020-09-27 17:53:22
- * @LastEditors: kcyln
- * @Description: pyqt5事件和信号--事件发送者
-"""
+# -*- coding: utf-8 -*-
+# @Author: kcyln
+# @Date: 2020-09-27 17:37:18
+# @LastEditTime: 2020-09-27 21:19:29
+# @LastEditors: kcyln
+# @Description: pyqt5事件和信号--事件发送者
+
+
 import sys
 from PyQt5.QtWidgets import QMainWindow, QPushButton, QApplication
  

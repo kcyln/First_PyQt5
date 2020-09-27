@@ -1,10 +1,11 @@
-"""
- * @Author: kcyln
- * @Date: 2020-09-27 15:32:19
- * @LastEditTime: 2020-09-27 15:46:57
- * @LastEditors: kcyln
- * @Description: pyqt5菜单栏和工具栏组合
-"""
+# -*- coding: utf-8 -*-
+# @Author: kcyln
+# @Date: 2020-09-27 15:32:19
+# @LastEditTime: 2020-09-27 21:18:57
+# @LastEditors: kcyln
+# @Description: pyqt5菜单栏和工具栏组合
+
+
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QTextEdit, QAction
 from PyQt5.QtGui import QIcon
